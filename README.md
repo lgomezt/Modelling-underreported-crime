@@ -16,7 +16,7 @@ This repository has three main folders. The content of each one is outlined belo
     - [section_model_validation_graphs.ipynb](Scripts/3_create_outputs/section_model_validation_graphs.ipynb): produces [Figure 1](Outputs/Figures/figure_1_model_validation.png), [Figure 2](Outputs/Figures/figure_2_model_validation.png), [Figure 3](Outputs/Figures/figure_3_model_validation.png), [Figure 4](Outputs/Figures/figure_4_model_validation.png), [Figure 5](Outputs/Figures/figure_5_model_validation.png), [Figure 6](Outputs/Figures/figure_6_model_validation.png), [Figure 7](Outputs/Figures/figure_7_model_validation.png).
 - **Outputs:** This folder contains the results of our research in the form of Data, Figures, and Tables. Therefore, this folder is divided into those three categories:
   - *Data:* Contains the results of our models in CSV files. Those files are the inputs to produce our main Figures.
-  - *Figures:* Contains all Figures of the paper.
+  - *Figures:* Contains the Figures of the paper.
   - *Tables:* Contains the Tables of the paper.
  
 ### Abstract
