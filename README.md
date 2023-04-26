@@ -20,6 +20,7 @@ This repository has three main folders. The content of each one is outlined belo
   - *Tables:* Contains the Tables of the paper.
   
 ### Description of the Data
+Due capacity of GitHub, we decided to upload all the data needed to replicate our paper in [Zenodo](https://zenodo.org/record/7868622#.ZElgsHbMJD8). The files uploaded to Zenodo are listed below:
 <ul>
 	<li><strong>distance_1000.csv:&nbsp;</strong></li>
 	<li><strong>distance_10000.csv:</strong></li>
