@@ -1,5 +1,5 @@
 # Modelling Underreported Spatio-temporal Crime Events
-### Álvaro J. Riascos Villegas, Jose Sebastian Ñungo, Lucas Gómez Tobón, Mateo Dulce Rubio and Francisco Gómez
+### Álvaro J. Riascos Villegas, Francisco Gómez, Jose Sebastian Ñungo, Lucas Gómez Tobón and Mateo Dulce Rubio
 
 This repository contains all the instructions to replicate the paper "Modelling Underreported Spatio-temporal Crime Events" including its results, tables, and figures. To do so, first, it is necessary to download all the data from our [Zenodo repository](https://zenodo.org/record/7868622#.ZElgsHbMJD8) and locate it in the "Data" folder to facilitate the exercise of running the code. 
 
