@@ -1,7 +1,7 @@
 # Data folder
 Data/*
 # exception to the rule
-!Data/.gitkeep 
+!Data/files_dictionary.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
