@@ -1,7 +1,7 @@
 # Modelling Underreported Spatio-temporal Crime Events
 ### Álvaro J. Riascos Villegas, Francisco Gómez, Jose Sebastian Ñungo, Lucas Gómez Tobón and Mateo Dulce Rubio
 
-This repository contains all the instructions to replicate the paper "Modelling Underreported Spatio-temporal Crime Events" including its results, tables, and figures. To do so, first, it is necessary to download all the data from our [Zenodo repository](https://zenodo.org/record/7868622#.ZElgsHbMJD8) and locate it in the "Data" folder to facilitate the exercise of running the code. 
+This repository contains all the instructions to replicate the paper ["Modelling Underreported Spatio-temporal Crime Events"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287776) including its results, tables, and figures. To do so, first, it is necessary to download all the data from our [Zenodo repository](https://zenodo.org/record/7868622#.ZElgsHbMJD8) and locate it in the "Data" folder to facilitate the exercise of running the code. 
 
 This repository has three main folders. The content of each one is outlined below:
 - **Data:** This folder contains "files_dictionary.txt" which is a file with the description of the files that are in our [Zenodo repository](https://zenodo.org/record/7868622#.ZElgsHbMJD8). The purpose of this folder is to store all the data from [Zenodo](https://zenodo.org/record/7868622#.ZElgsHbMJD8), therefore you must download them and put them in there. 
